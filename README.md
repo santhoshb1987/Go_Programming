@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=jFfo23yIWac
 
 # Effectivge Go
 https://go.dev/doc/effective_go
+
+# Go Programming PDF
+https://www.gopl.io/ch1.pdf
